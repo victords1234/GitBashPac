@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.learn.mavenCommands.mavenCommands.SimpleTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.learn.mavenCommands.mavenCommands.SimpleTest">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- com.learn.mavenCommands.mavenCommands.SimpleTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.learn.mavenCommands.mavenCommands.SimpleTest] -->
