@@ -12,4 +12,9 @@ public class SimpleTest
 	{
 		System.out.println("Hello");
 	}
+	@Test(groups={"rt"})
+	public void ma()
+	{
+		System.out.println("Hello");
+	}
 }
